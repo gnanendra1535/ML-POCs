@@ -1,0 +1,11 @@
+school_name,district,student_teacher_ratio,funding_per_student,graduation_rate,test_scores,percent_economically_disadvantaged,median_income,teachers_with_masters_percent
+School_1,Williamson,24.4,10246,83.35,89.12,57.16,91407,54.41
+School_2,Sumner,12.29,10469,96.76,93.5,70.61,81151,66.27
+School_3,Davidson,21.1,9425,98.62,82.11,21.57,91978,59.46
+School_4,Sumner,17.2,14360,98.99,95.75,19.85,64501,35.72
+School_5,Davidson,14.18,13464,75.76,58.07,30.13,66072,21.67
+School_6,Rutherford,22.73,6727,77.93,70.61,30.47,82550,60.21
+School_7,Rutherford,12.73,9729,73.41,58.29,39.44,87868,44.25
+School_8,Sumner,20.19,6535,81.51,95.44,56.91,55567,45.46
+School_9,Davidson,20.11,6154,77.4,86.4,38.79,59421,30.63
+School_10,Sumner,17.23,6865,85.27,99.91,12.94,89630,32.55

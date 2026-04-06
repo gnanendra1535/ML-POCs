@@ -1,0 +1,6 @@
+   StudentID  Sex  Age  Ethnicity  MathScore  PhysicsScore  DSScore
+0        101    2   19          0      85.00         78.00       88
+1        102    1   20          2      92.00         81.00       91
+2        103    1   19          1      76.00         73.00       80
+3        104    1   21          3      85.25         65.00       70
+4        105    2   20          0      88.00         74.25       95

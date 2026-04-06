@@ -1,0 +1,5 @@
+words = input("Enter words separated by spaces: ")
+word_list = words.split()
+word_list.sort()
+print("Sorted words:")
+print(' '.join(word_list))

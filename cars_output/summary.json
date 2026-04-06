@@ -1,0 +1,20 @@
+{
+  "best_model": "RandomForest",
+  "performance": [
+    {
+      "model": "Ridge",
+      "train_rmse": 1326607.078974706,
+      "test_rmse": 1461356.173298437,
+      "test_mae": 864506.1337700723,
+      "test_r2": 0.36385075235878184
+    },
+    {
+      "model": "RandomForest",
+      "train_rmse": 311797.79581902054,
+      "test_rmse": 960138.9822985962,
+      "test_mae": 377312.5797101449,
+      "test_r2": 0.7253908105633599
+    }
+  ],
+  "feature_count": 28
+}
